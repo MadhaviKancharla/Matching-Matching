@@ -10,8 +10,8 @@ function stop(){
 }
 function dimension(a){
    
-    id = event.srcElement.id;
-    localStorage.setItem("ID",id);
+ 
+    localStorage.setItem("ID",a);
   
    // alert("hloo");
 }
