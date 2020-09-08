@@ -11,6 +11,7 @@ function stop(){
 function dimension(a){
    
     id = event.srcElement.id;
-    console.log(localStorage.getItem("ID"));
+    localStorage.setItem("ID",id);
+  
    // alert("hloo");
 }
