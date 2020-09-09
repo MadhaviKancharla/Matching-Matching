@@ -124,6 +124,8 @@ function restart() {
     ele.src = "Images/tapme.gif";
   }
   shuffle();
+  moves=0;
+  finished=0;
 }
 function check(a) {
   console.log("came");
