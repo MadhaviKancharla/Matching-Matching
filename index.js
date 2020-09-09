@@ -5,7 +5,7 @@ function stop(){
    j[0].style.opacity = "0";
    k[0].style.opacity = "0";
    setTimeout(function () {
-        i.style.opacity = "0";'
+        i.style.opacity = "0";
         j[0].style.opacity = "1";
         k[0].style.opacity = "1";
        
