@@ -6,8 +6,8 @@ function stop(){
    k[0].style.opacity = "0";
    setTimeout(function () {
         i.style.opacity = "0";'
-      var j = document.getElementsByClassName("instructions");
-       var k = document.getElementsByClassName("selection");
+        j[0].style.opacity = "1";
+        k[0].style.opacity = "1";
        
     }, 7000);
    
