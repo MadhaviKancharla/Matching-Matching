@@ -8,6 +8,7 @@ function stop() {
     
     j[0].style.opacity = "1";
     k[0].style.opacity = "1";
+    i.style.opacity="0";
   }, 7000);
 }
 function dimension(a) {
